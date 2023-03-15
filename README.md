@@ -5,7 +5,7 @@
 <h3 align="center">A Web developer from Vietnam </h3>
 
 
-- ✍ I'm a student of: [Hutech University].
+- ✍ I'm a student of: Hutech University.
 
 - 🌱 I’m currently learning Back-End
 
