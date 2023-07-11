@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: Hutech University.
 
-- 🌱 I’m currently learning Back-End
+- 🌱 I’m currently learning Front-End
 
 
 ## 📫 How to reach me:
